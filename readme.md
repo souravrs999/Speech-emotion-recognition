@@ -1,15 +1,14 @@
-<snippet>
-  <content><![CDATA[
-# ${1:SPEECH EMOTION RECOGNITION}
+# SPEECH EMOTION RECOGNITION
+<img src="https://1.bp.blogspot.com/-HF-5nI48uo4/T7Lzpvc0KmI/AAAAAAAAAxs/zdFVTSHqFkE/s1600/python-logo.png" height=50 width =50></img>
 
 This is a tool built for recognising emotions from speech using different ML and DL algorithms, But mainly focuses on LSTM(Long Short Term Memory) and CNN (Convolutional Neural Network) for predictions
 
 ## Tools Used
 
-<a href="https://www.python.org/">python 3.7</a>
-<a href="https://github.com/librosa/librosa">Librosa</a> library for extracting the features
-<a href="https://keras.io/">Keras</a>
-<a href="https://scikit-learn.org/stable/index.html">Sci-kit learn</a>
+<a href="https://www.python.org/">python 3.7</a><br>
+<a href="https://github.com/librosa/librosa">Librosa</a> library for extracting the features<br>
+<a href="https://keras.io/">Keras</a><br>
+<a href="https://scikit-learn.org/stable/index.html">Sci-kit learn</a><br>
 
 ## Dataset
 
@@ -77,26 +76,23 @@ To run the tool just type Python3 main.py
 You can change or play with the code to increase the Accuracy
 path for the script can be changed inside the main.py script
 
-Mainly 6 methods have been used to classify the data
-[1]Random Forest Classifier
-[2]Decision Tree Classifier
-[3]Support Vector Machine
-[4]Multi Layer Perceptron
-[5]Long Short-term Memory
-[6]Convolutional Neural Network
+Mainly 6 methods have been used to classify the data<br>
+[1]Random Forest Classifier<br><img src="https://d1rwhvwstyk9gu.cloudfront.net/2019/03/Random-Forest-Algorithm.jpg" height=60 width =60></img><br>
+[2]Decision Tree Classifier<br><img src="https://www.all-ppt-templates.com/images/powerpoint-decision-tree-005.jpg" height=60 width =60></img><br>
+[3]Support Vector Machine<br><img src="https://randomforests.files.wordpress.com/2014/01/n150_svm.png" height=60 width =60></img><br>
+[4]Multi Layer Perceptron<br><img src="http://scikit-learn.org/dev/_images/multilayerperceptron_network.png" height=60 width =60></img><br>
+[5]Long Short-term Memory<br><img src="http://www.mdpi.com/energies/energies-10-01168/article_deploy/html/images/energies-10-01168-g008.png" height=60 width =60></img><br>
+[6]Convolutional Neural Network<br><img src="https://i1.wp.com/www.michaelchimenti.com/wp-content/uploads/2017/11/Deep-Neural-Network-What-is-Deep-Learning-Edureka.png" height=60 width =60></img><br>
 
 Options for running KFold cross validation and Data preprocessing has also been included in the menu
 
 ## Credits
 
-https://github.com/xuanjihe/speech-emotion-recognition
-https://github.com/RayanWang/Speech_emotion_recognition_BLSTM
-https://github.com/harry-7/speech-emotion-recognition
-https://github.com/x4nth055/emotion-recognition-using-speech
+https://github.com/xuanjihe/speech-emotion-recognition<br>
+https://github.com/RayanWang/Speech_emotion_recognition_BLSTM<br>
+https://github.com/harry-7/speech-emotion-recognition<br>
+https://github.com/x4nth055/emotion-recognition-using-speech<br>
 
 ## License
 
 <a href="https://choosealicense.com/licenses/mit/">MIT</a>
-]]></content>
-<tabTrigger>readme</tabTrigger>
-</snippet>
