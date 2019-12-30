@@ -83,9 +83,9 @@ def logo():
 	   :8P:'Y88:b 8P            `8b                    `8d8'
 	   88 ',88888 Y8888ooooooP""""Yb                    `"
 	  ,8; o8888bY;8Yb '         ooo88b                       Author: Sourav R S (darkstalker)
-	  :8o8":;888'8;88bo,od8` '`'`'  Ybo                      github: https://github.com/souravrs999/dark
-	  d8"  d;888bP;o'`        ,.:o:'`"P o                    Mail:souravraveendran6@gmail.com,souravraveendran6@outlok.com
-	  "'   8'8888d8b,;odP8;dP'`    o:;`'8 :o       '         @if you use this tool please cite me at  https://github.com/souravrs999/dark
+	  :8o8":;888'8;88bo,od8` '`'`'  Ybo                      github: https://github.com/souravrs999/Speech-emotion-detection
+	  d8"  d;888bP;o'`        ,.:o:'`"P o                    Mail:souravraveendran6@gmail.com,souravraveendran6@outlook.com
+	  "'   8'8888d8b,;odP8;dP'`    o:;`'8 :o       '         @if you use this tool please cite me at  https://github.com/souravrs999/Speech-emotion-detection
 	       8 :8P8'88o`8P''    ooo'   ,oo" d8.dboo
 	      ,8 :`d88b,88od8888P"'   oo""  ,'" dP"88888
 	      :P  88888;8b 888;   oo8"'   ,P' ,8' d'88"8
